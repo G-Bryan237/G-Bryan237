@@ -18,7 +18,6 @@ Passionate about building scalable solutions, optimizing systems, and leveraging
 
 ### **Data**  
 - MongoDB, Firebase
-- 
 ### **Other**  
 - Tkinter (Python GUI Development)  
 - TensorFlow/Keras (Machine Learning)  
