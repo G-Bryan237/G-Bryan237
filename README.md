@@ -16,7 +16,7 @@ Passionate about building scalable solutions, optimizing systems, and leveraging
 - Node.js (Express), Python (Django, Flask)  
 - PHP (Laravel), RESTful APIs, GraphQL  
 
-### **Data **  
+### **Data**  
 - MongoDB, Firebase
 - 
 ### **Other**  
