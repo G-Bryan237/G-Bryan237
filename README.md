@@ -16,7 +16,7 @@ Hi and welcome 😊👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo" width="40" height="40"/> <!-- Expo -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/shadcn/ui/apps/www/public/icons/icon.png" alt="ShadCN UI" width="40" height="40"/>
+  <img src="https://seeklogo.com/vector-logo/519786/shadcn-ui" alt="ShadCN UI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/> <!-- Laravel -->
