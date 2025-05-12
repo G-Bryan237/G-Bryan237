@@ -3,8 +3,8 @@
 Hi and welcome 😊👋
 
 * 💻 I'm a **Full-Stack Developer**, **Tech Entrepreneur**, and **AI/Automation Enthusiast**  
-* 🚀 I build scalable systems & efficient solutions  
-* ⚡ I'm: Creative, Analytical, and Product-Focused  
+* 🚀 I build scalable systems & efficient solutions. 
+* ⚡ I'm: Creative, Analytical, and Product-Focused.
 
 ---
 
