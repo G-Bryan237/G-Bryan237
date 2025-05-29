@@ -1,6 +1,6 @@
 # Dze Bryan 👨‍💻
 
-Hi and welcome 😊👋
+Hello and welcome 👋
 
  I'm a Full-Stack and Mobile Developer focused on building scalable, maintainable, and efficient software. I actively work on real-world projects across web, mobile, and AI, aiming to deliver clean, high-impact solutions through thoughtful engineering and modern development practices.
 
@@ -21,6 +21,7 @@ Hi and welcome 😊👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
+
 ---
 
 ## 📊 Bryan's GitHub Stats
@@ -39,8 +40,7 @@ Hi and welcome 😊👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/)
 [![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan)
 [![GitHub](https://img.shields.io/badge/GitHub-G--Bryan237-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Bryan237)
-tps://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+
 
 ---
 
