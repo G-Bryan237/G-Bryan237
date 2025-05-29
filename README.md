@@ -43,20 +43,3 @@ Hello and welcome 👋
 
 
 ---
-
-## 📊 Bryan's GitHub Stats
-
-![Dze Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=dark&cache_seconds=1800)
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=dark)
-
----
-
-## 📫 Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/)
-[![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan)
-[![GitHub](https://img.shields.io/badge/GitHub-G--Bryan237-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Bryan237)
