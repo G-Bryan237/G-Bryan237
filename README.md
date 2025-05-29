@@ -26,7 +26,7 @@ Hello and welcome 👋
 
 ## 📊 Bryan's GitHub Stats
 
-[![Dze Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=dark&cache_seconds=1800&v=1)
+![Dze Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=dark&cache_seconds=1800&v=1)
 
 ## 📈 Most Used Languages
 
