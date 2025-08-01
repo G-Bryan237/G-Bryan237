@@ -40,8 +40,8 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## 🚀 Pinned Projects
 
-<a href="https://github.com/G-Bryan237/bank-refund">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=bank-refund&theme=dark" />
+<a href="https://github.com/G-Bryan237/CameroCare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=CameroCare&theme=dark" />
 </a>
 
 <a href="https://github.com/G-Bryan237/mortuary-management">
