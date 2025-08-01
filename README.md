@@ -44,8 +44,8 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=CameroCare&theme=dark" />
 </a>
 
-<a href="https://github.com/G-Bryan237/mortuary-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=mortuary-management&theme=dark" />
+<a href="https://github.com/G-Bryan237/Handyman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=Handyman&theme=dark" />
 </a>
 
 ---
