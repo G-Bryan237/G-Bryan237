@@ -1,13 +1,13 @@
-# Dze Bryan 👨‍💻
+# Dze Bryan
 
-Hello and welcome 👋
+Hello and welcome
 
 I'm a **Full-Stack and Mobile Developer** focused on building scalable, maintainable, and efficient software.  
 I actively work on real-world projects across **web, mobile, and AI**, aiming to deliver clean, high-impact solutions through thoughtful engineering and modern development practices.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -25,7 +25,7 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ---
 
-## ⚡ Quick Stats
+## Quick Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark" />
@@ -39,13 +39,13 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-Bryan237&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-Bryan237&theme=dark&hide_border=true&ring=FF8C00&fire=FF4500&currStreakLabel=FF8C00&sideLabels=FFB347&dates=FFFFFF)](https://git.io/streak-stats)
 
 ---
 
-## 🚀 Pinned Projects
+## Pinned Projects
 
 <a href="https://github.com/G-Bryan237/CameroCare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=CameroCare&theme=github_dark&hide_border=true" />
@@ -57,7 +57,7 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ---
 
-## 🧰 Tools & IDEs
+## Tools and IDEs
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -68,23 +68,20 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ---
 
-## 💬 Quote I Live By
+## Quote I Live By
 
 > _"Strive not to be a success, but rather to be of value."_ — **Albert Einstein**
 
 ---
 
-## 🌍 Visitors
+## Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=G-Bryan237&color=blue&style=flat)
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan)  
-[![GitHub](https://img.shields.io/badge/GitHub-G--Bryan237-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Bryan237)
+[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/) [![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan) [![GitHub](https://img.shields.io/badge/GitHub-G--Bryan237-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Bryan237)
 
 ---
