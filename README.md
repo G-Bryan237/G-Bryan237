@@ -27,24 +27,32 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## ⚡ Quick Stats
 
-![Dze Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&cache_seconds=86400&v=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=2)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Bryan237&theme=github_dark&utcOffset=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Bryan237&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Bryan237&theme=github_dark" />
+</p>
+
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=G-Bryan237&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-Bryan237&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 🚀 Pinned Projects
 
 <a href="https://github.com/G-Bryan237/CameroCare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=CameroCare&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=CameroCare&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/G-Bryan237/Handyman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=Handyman&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=G-Bryan237&repo=Handyman&theme=github_dark&hide_border=true" />
 </a>
 
 ---
@@ -74,10 +82,9 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/)
-[![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan)
+[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan)  
 [![GitHub](https://img.shields.io/badge/GitHub-G--Bryan237-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Bryan237)
 
 ---
-
