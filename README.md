@@ -27,9 +27,8 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## ⚡ Quick Stats
 
-![Dze Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=300)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=dark&cache_seconds=300)
-
+![Dze Bryan GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=github_dark&include_all_commits=true&hide_border=true&cache_seconds=86400&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=2)
 ---
 
 ## 🔥 GitHub Streak
