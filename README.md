@@ -35,7 +35,7 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-Bryan237&theme=dark&hide_border=true&ring=FF8C00&fire=FF4500&currStreakLabel=FF8C00&sideLabels=FFB347&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=G-Bryan237)](https://git.io/streak-stats)
 
 ---
 
