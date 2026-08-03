@@ -28,7 +28,34 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## Quick Stats
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Bryan237&theme=github_dark&utcOffset=1" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Bryan237&theme=github_dark" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Bryan237&theme=github_dark" height="160" /></p>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark"
+    alt="GitHub Statistics"
+    height="160"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Bryan237&theme=github_dark&utcOffset=1"
+    alt="Productive Time"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Bryan237&theme=github_dark"
+    alt="Repositories per Language"
+    height="160"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Bryan237&theme=github_dark"
+    alt="Most Committed Languages"
+    height="160"
+  />
+</p>
+
+---
+
 
 ---
 
