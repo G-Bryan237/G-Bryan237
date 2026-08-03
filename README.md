@@ -30,17 +30,16 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=transparent&hide_border=true"
     alt="Dze Bryan's GitHub Statistics"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=transparent&hide_border=true"
     alt="Dze Bryan's Most Used Languages"
     height="165"
   />
 </p>
-
 
 ---
 
