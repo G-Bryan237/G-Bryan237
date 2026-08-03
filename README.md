@@ -40,7 +40,6 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
     height="165"
   />
 </p>
----
 
 
 ---
