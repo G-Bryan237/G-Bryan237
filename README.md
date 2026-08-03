@@ -27,8 +27,14 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 
 ## Quick Stats
-
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=G-Bryan237&theme=github_dark&utcOffset=1" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=G-Bryan237&theme=github_dark" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=G-Bryan237&theme=github_dark" height="160" /></p>
+-
+-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark" height="160" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=G-Bryan237&theme=github_dark" />
++</## Quick Stats
++
++<p align="center">
++  <img src="https://github-readme-stats.vercel.app/api?username=G-Bryan237&show_icons=true&theme=github_dark&count_private=true" alt="G-Bryan237's GitHub stats" height="160" />
++  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Bryan237&layout=compact&theme=github_dark" alt="Top Languages" height="160" />
++</p>
 
 ---
 
