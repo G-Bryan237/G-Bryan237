@@ -86,6 +86,5 @@ I actively work on real-world projects across **web, mobile, and AI**, aiming to
 
 ## Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/) [![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan) [![GitHub](https://img.shields.io/badge/GitHub-G--Bryan237-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G-Bryan237)
-
+[![Email](https://img.shields.io/badge/Email-e.bryandze@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e.bryandze@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Dze-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzebryan237/) [![Twitter](https://img.shields.io/badge/Twitter-@dze_bryan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dze_bryan)
 ---
